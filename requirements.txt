@@ -1,0 +1,11 @@
+pandas
+numpy
+matplotlib
+seaborn
+
+# Machine learning
+scikit-learn
+
+# Jupyter environment
+jupyter
+ipykernel
